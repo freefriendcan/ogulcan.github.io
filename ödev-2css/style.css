@@ -1,0 +1,39 @@
+.bg-yellow{
+
+    background-color: yellow;
+}
+
+.bg-green {
+
+    background-color:green;
+}
+
+.bg-red {
+
+    background-color:red;
+}
+
+.wh{
+    width:495px;
+    height:100px;
+}
+
+.wh1{
+    width:200px;
+    height:100px;
+}
+
+.fixer {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fltr{
+    float:left;
+}
+.bg-blue{
+    background-color:rgb(41, 95, 142)
+}
+.bg-color{
+    background-color: #70CCC2;
+}

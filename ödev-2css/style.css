@@ -13,15 +13,7 @@
     background-color:red;
 }
 
-.wh{
-    width:495px;
-    height:100px;
-}
 
-.wh1{
-    width:200px;
-    height:100px;
-}
 
 .fixer {
     margin-left: auto;
@@ -36,12 +28,4 @@
 }
 .bg-color{
     background-color: #70CCC2;
-}
-@media screen and (max-width: 900px) {
-    .wh, .wh1{
-
-width: 100%;
-
-margin-top:10px;
-
 }

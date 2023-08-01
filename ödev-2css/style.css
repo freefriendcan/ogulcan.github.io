@@ -1,18 +1,3 @@
-.bg-yellow{
-
-    background-color: yellow;
-}
-
-.bg-green {
-
-    background-color:green;
-}
-
-.bg-red {
-
-    background-color:red;
-}
-
 
 
 .fixer {
@@ -23,9 +8,7 @@
 .fltr{
     float:left;
 }
-.bg-blue{
-    background-color:rgb(41, 95, 142)
-}
+
 .bg-color{
     background-color: #70CCC2;
 }
